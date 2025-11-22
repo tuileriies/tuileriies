@@ -19,6 +19,8 @@
 
 <p align="center">under 14 dni please . . . i 'm 15 ok . . . view on light mode maybe (′ェ`)</p>  
 
+<p align="center">formerly blackmesaa . . i like half life & napoleon ok</p>
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9zxx0pmsegu9seluh3kb8hgxg&cover_image=true&theme=natemoo-re&show_offline=true&background_color=dddacf&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
