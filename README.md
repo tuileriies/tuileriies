@@ -12,7 +12,8 @@
 
 <p align="center">
  <a href="https://napoleonn.straw.page">straw</a> 
-  <a href="https://godheadsilo.atabook.org/">ata</a>
+  <a href="https://godheadsilo.atabook.org/">ata</a> 
+ <a href="https://rentry.co/bonapartte">rentry</a>
 </p>
 
 
