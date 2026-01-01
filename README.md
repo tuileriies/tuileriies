@@ -1,11 +1,11 @@
-![](https://64.media.tumblr.com/5c6b8e4808eda642254c7b59e4c84c01/9d28fbe89343203c-10/s2048x3072/d783d2837f5e02dc7b2e99ca6d6a23e73983d2d6.pnj)
+![](https://64.media.tumblr.com/ce461a77a611435046bf5256efe42fe6/899ef1800f9dca23-23/s1280x1920/da5a558494c7e1dd7a95fafe54f0fc582ed4f233.pnj)
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=apertvre&label=friends&color=a3a597"</a>
 </p>
  
 <p align="center">
-<img width="460" height="500" src="https://64.media.tumblr.com/e5d6ebd3a2d113eec87846448127a792/7cef2f214ffcb49f-5f/s250x400/c2185d066db825d77cafb44c707e7f45283451ff.pnj">
+<img width="460" height="500" src="https://64.media.tumblr.com/4f435f07a6c27650b6d39c7767aefd10/f4bd149c40b04e8a-00/s500x750/2a5ace0e3917c65e9bc46bb5853665fd344c3f96.pnj">
 </p>
 
 ##  
@@ -38,4 +38,4 @@
 
 
 
- ![](https://64.media.tumblr.com/5c6b8e4808eda642254c7b59e4c84c01/9d28fbe89343203c-10/s2048x3072/d783d2837f5e02dc7b2e99ca6d6a23e73983d2d6.pnj)
+ ![](https://64.media.tumblr.com/ce461a77a611435046bf5256efe42fe6/899ef1800f9dca23-23/s1280x1920/da5a558494c7e1dd7a95fafe54f0fc582ed4f233.pnj)
